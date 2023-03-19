@@ -1,3 +1,4 @@
+@CICDTest
 Feature: Tek Rtail application sign in feature
 
   Background: 
