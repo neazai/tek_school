@@ -1,0 +1,696 @@
+2023-02-26 02:11:21,230 - logger_File -INFO - user is on retail website
+2023-02-26 02:11:21,249 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-26 02:11:21,668 - logger_File -INFO - user searched for product pokemon
+2023-02-26 02:11:21,779 - logger_File -INFO - the Product is displayed on home page
+2023-02-28 09:28:06,656 - logger_File -INFO - user is on retail website
+2023-02-28 09:28:06,668 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-28 09:28:06,897 - logger_File -INFO - user searched for product pokemon
+2023-02-28 09:28:07,197 - logger_File -INFO - the Product is displayed on home page
+2023-03-02 22:08:17,634 - logger_File -INFO - user is on retail website
+2023-03-02 22:08:17,643 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 22:08:17,865 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 22:08:18,177 - logger_File -INFO - user enter email valueEmailValueuser enter passward valuePasswordValue
+2023-03-02 22:10:19,971 - logger_File -INFO - user is on retail website
+2023-03-02 22:10:19,976 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 22:10:20,181 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 22:10:20,498 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 22:10:20,605 - logger_File -INFO - user clicked on logg in button
+2023-03-02 22:10:20,917 - logger_File -INFO - user is logged in into account
+2023-03-02 22:11:09,907 - logger_File -INFO - user is on retail website
+2023-03-02 22:11:09,914 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 22:11:10,228 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 22:11:10,537 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 22:11:10,641 - logger_File -INFO - user clicked on logg in button
+2023-03-02 22:11:10,881 - logger_File -INFO - user is logged in into account
+2023-03-02 22:16:22,942 - logger_File -INFO - user is on retail website
+2023-03-02 22:16:22,952 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 22:16:23,254 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 22:16:23,586 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 22:16:23,696 - logger_File -INFO - user clicked on logg in button
+2023-03-02 22:16:23,967 - logger_File -INFO - user is logged in into account
+2023-03-02 23:07:50,767 - logger_File -INFO - user is on retail website
+2023-03-02 23:07:50,778 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 23:07:50,996 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 23:07:51,320 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 23:07:51,430 - logger_File -INFO - user clicked on logg in button
+2023-03-02 23:07:51,724 - logger_File -INFO - user is logged in into account
+2023-03-02 23:21:02,919 - logger_File -INFO - user is on retail website
+2023-03-02 23:21:02,925 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 23:21:03,187 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 23:21:03,508 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 23:21:03,613 - logger_File -INFO - user clicked on logg in button
+2023-03-02 23:21:03,901 - logger_File -INFO - user is logged in into account
+2023-03-02 23:21:04,060 - logger_File -INFO - user change the catagory to home smart
+2023-03-02 23:21:04,282 - logger_File -INFO - user searched for item
+2023-03-02 23:21:04,375 - logger_File -INFO - user click on serach icon
+2023-03-02 23:21:04,560 - logger_File -INFO - user click on item
+2023-03-02 23:21:04,762 - logger_File -INFO - user select qty
+2023-03-02 23:21:04,947 - logger_File -INFO - user clicked on cart
+2023-03-02 23:21:04,978 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-02 23:22:40,894 - logger_File -INFO - user is on retail website
+2023-03-02 23:22:40,900 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-02 23:22:41,119 - logger_File -INFO - user clicked on the sign in button
+2023-03-02 23:22:41,436 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-02 23:22:41,544 - logger_File -INFO - user clicked on logg in button
+2023-03-02 23:22:41,846 - logger_File -INFO - user is logged in into account
+2023-03-02 23:22:41,964 - logger_File -INFO - user change the catagory to home smart
+2023-03-02 23:22:42,170 - logger_File -INFO - user searched for item
+2023-03-02 23:22:42,262 - logger_File -INFO - user click on serach icon
+2023-03-02 23:22:42,434 - logger_File -INFO - user click on item
+2023-03-02 23:22:42,662 - logger_File -INFO - user select qty
+2023-03-02 23:22:42,795 - logger_File -INFO - user clicked on cart
+2023-03-02 23:22:42,897 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 08:41:11,834 - logger_File -INFO - user is on retail website
+2023-03-03 08:41:11,845 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 08:41:12,149 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 08:41:12,591 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 08:41:12,737 - logger_File -INFO - user clicked on logg in button
+2023-03-03 08:41:13,054 - logger_File -INFO - user is logged in into account
+2023-03-03 08:41:13,218 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 08:41:13,483 - logger_File -INFO - user searched for item
+2023-03-03 08:41:13,623 - logger_File -INFO - user click on serach icon
+2023-03-03 08:41:13,817 - logger_File -INFO - user click on item
+2023-03-03 08:41:14,046 - logger_File -INFO - user select qty
+2023-03-03 08:41:14,265 - logger_File -INFO - user clicked on cart
+2023-03-03 08:41:14,391 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 09:01:54,254 - logger_File -INFO - user is on retail website
+2023-03-03 09:01:54,266 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:01:54,515 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 09:01:54,933 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 09:01:55,081 - logger_File -INFO - user clicked on logg in button
+2023-03-03 09:01:55,561 - logger_File -INFO - user is logged in into account
+2023-03-03 09:01:55,748 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 09:01:56,040 - logger_File -INFO - user searched for item
+2023-03-03 09:01:56,175 - logger_File -INFO - user click on serach icon
+2023-03-03 09:01:56,398 - logger_File -INFO - user click on item
+2023-03-03 09:01:56,637 - logger_File -INFO - user select qty
+2023-03-03 09:01:56,827 - logger_File -INFO - user clicked on cart
+2023-03-03 09:01:56,874 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 09:01:57,039 - logger_File -INFO - user clicked on cart option
+2023-03-03 09:01:57,229 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 09:01:57,429 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 09:01:57,656 - logger_File -INFO - user clicked on add address button
+2023-03-03 09:22:36,858 - logger_File -INFO - user is on retail website
+2023-03-03 09:22:36,867 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 09:22:37,274 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 09:22:37,675 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 09:22:37,812 - logger_File -INFO - user clicked on logg in button
+2023-03-03 09:22:38,057 - logger_File -INFO - user is logged in into account
+2023-03-03 09:22:38,214 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 09:22:38,484 - logger_File -INFO - user searched for item
+2023-03-03 09:22:38,611 - logger_File -INFO - user click on serach icon
+2023-03-03 09:22:38,821 - logger_File -INFO - user click on item
+2023-03-03 09:22:39,065 - logger_File -INFO - user select qty
+2023-03-03 09:22:39,239 - logger_File -INFO - user clicked on cart
+2023-03-03 09:22:39,284 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 09:22:39,441 - logger_File -INFO - user clicked on cart option
+2023-03-03 09:22:39,609 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 09:22:39,781 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 09:22:41,852 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 09:22:42,042 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:12:36,361 - logger_File -INFO - user is on retail website
+2023-03-03 11:12:36,380 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:12:38,277 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:12:39,609 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:12:40,410 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:12:40,541 - logger_File -INFO - user is on retail website
+2023-03-03 11:12:40,548 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:12:40,725 - logger_File -INFO - user is logged in into account
+2023-03-03 11:12:41,000 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:12:41,066 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:12:41,522 - logger_File -INFO - user searched for item
+2023-03-03 11:12:41,595 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:12:41,703 - logger_File -INFO - user click on serach icon
+2023-03-03 11:12:41,753 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:12:41,966 - logger_File -INFO - user click on item
+2023-03-03 11:12:42,141 - logger_File -INFO - user is logged in into account
+2023-03-03 11:12:42,359 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:12:42,403 - logger_File -INFO - user select qty
+2023-03-03 11:12:42,601 - logger_File -INFO - user clicked on cart
+2023-03-03 11:12:42,696 - logger_File -INFO - user searched for item
+2023-03-03 11:12:42,727 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 11:12:42,850 - logger_File -INFO - user click on serach icon
+2023-03-03 11:12:42,930 - logger_File -INFO - user clicked on cart option
+2023-03-03 11:12:43,120 - logger_File -INFO - user click on item
+2023-03-03 11:12:43,187 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 11:12:43,428 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 11:12:43,444 - logger_File -INFO - user select qty
+2023-03-03 11:12:43,591 - logger_File -INFO - user clicked on cart
+2023-03-03 11:12:45,252 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 11:12:45,406 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:12:45,567 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 11:12:46,335 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 11:12:46,474 - logger_File -INFO - user click on add your card option
+2023-03-03 11:16:05,146 - logger_File -INFO - user is on retail website
+2023-03-03 11:16:05,155 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:16:05,416 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:16:05,794 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:16:05,914 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:16:06,458 - logger_File -INFO - user is logged in into account
+2023-03-03 11:16:06,573 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:16:06,781 - logger_File -INFO - user searched for item
+2023-03-03 11:16:06,875 - logger_File -INFO - user click on serach icon
+2023-03-03 11:16:07,057 - logger_File -INFO - user click on item
+2023-03-03 11:16:07,230 - logger_File -INFO - user select qty
+2023-03-03 11:16:07,366 - logger_File -INFO - user clicked on cart
+2023-03-03 11:16:07,462 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 11:16:07,579 - logger_File -INFO - user clicked on cart option
+2023-03-03 11:16:07,710 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 11:16:07,850 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 11:16:09,255 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 11:16:09,382 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:16:09,519 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 11:16:10,139 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 11:16:10,250 - logger_File -INFO - user click on add your card option
+2023-03-03 11:16:10,918 - logger_File -INFO - user click on place your order button
+2023-03-03 11:16:11,127 - logger_File -INFO - messege orderplaced thanks is desplayes
+2023-03-03 11:20:04,602 - logger_File -INFO - user is on retail website
+2023-03-03 11:20:04,612 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:20:04,838 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:20:05,156 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:20:05,265 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:20:05,553 - logger_File -INFO - user is logged in into account
+2023-03-03 11:20:05,686 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:20:05,904 - logger_File -INFO - user searched for item
+2023-03-03 11:20:06,011 - logger_File -INFO - user click on serach icon
+2023-03-03 11:20:06,190 - logger_File -INFO - user click on item
+2023-03-03 11:20:06,434 - logger_File -INFO - user select qty
+2023-03-03 11:20:06,586 - logger_File -INFO - user clicked on cart
+2023-03-03 11:20:06,693 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 11:20:06,810 - logger_File -INFO - user clicked on cart option
+2023-03-03 11:20:06,937 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 11:20:07,072 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 11:20:08,451 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 11:20:08,584 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:20:08,731 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 11:20:09,337 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 11:20:09,438 - logger_File -INFO - user click on add your card option
+2023-03-03 11:20:10,072 - logger_File -INFO - user click on place your order button
+2023-03-03 11:20:10,352 - logger_File -INFO - messege orderplaced thanks is desplayes
+2023-03-03 11:31:50,428 - logger_File -INFO - user is on retail website
+2023-03-03 11:31:50,434 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:31:50,657 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:31:50,981 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:31:51,085 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:31:51,382 - logger_File -INFO - user is logged in into account
+2023-03-03 11:31:51,514 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:31:51,719 - logger_File -INFO - user searched for item
+2023-03-03 11:31:51,816 - logger_File -INFO - user click on serach icon
+2023-03-03 11:31:51,992 - logger_File -INFO - user click on item
+2023-03-03 11:31:52,177 - logger_File -INFO - user select qty
+2023-03-03 11:31:52,326 - logger_File -INFO - user clicked on cart
+2023-03-03 11:31:52,430 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 11:31:52,534 - logger_File -INFO - user clicked on cart option
+2023-03-03 11:31:52,670 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 11:31:52,812 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 11:31:54,198 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 11:31:54,325 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:31:54,476 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 11:31:55,099 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 11:31:55,209 - logger_File -INFO - user click on add your card option
+2023-03-03 11:32:41,372 - logger_File -INFO - user is on retail website
+2023-03-03 11:32:41,379 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 11:32:41,558 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 11:32:41,893 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 11:32:42,001 - logger_File -INFO - user clicked on logg in button
+2023-03-03 11:32:42,304 - logger_File -INFO - user is logged in into account
+2023-03-03 11:32:42,437 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 11:32:42,652 - logger_File -INFO - user searched for item
+2023-03-03 11:32:42,749 - logger_File -INFO - user click on serach icon
+2023-03-03 11:32:42,939 - logger_File -INFO - user click on item
+2023-03-03 11:32:43,143 - logger_File -INFO - user select qty
+2023-03-03 11:32:43,292 - logger_File -INFO - user clicked on cart
+2023-03-03 11:32:43,398 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 11:32:43,513 - logger_File -INFO - user clicked on cart option
+2023-03-03 11:32:43,640 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 11:32:43,776 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 11:32:45,148 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 11:32:45,277 - logger_File -INFO - user clicked on add address button
+2023-03-03 11:32:45,419 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 11:32:46,033 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 11:32:46,136 - logger_File -INFO - user click on add your card option
+2023-03-03 11:32:46,831 - logger_File -INFO - user click on place your order button
+2023-03-03 11:32:47,057 - logger_File -INFO - messege is desplayes
+2023-03-03 13:19:34,436 - logger_File -INFO - user is on retail website
+2023-03-03 13:19:34,441 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:19:34,643 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:19:34,961 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:19:35,070 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:19:35,373 - logger_File -INFO - user is logged in into account
+2023-03-03 13:19:35,513 - logger_File -INFO - user change the catagory to electronics
+2023-03-03 13:19:35,709 - logger_File -INFO - user searched for item
+2023-03-03 13:19:35,807 - logger_File -INFO - user click on serach icon
+2023-03-03 13:28:48,778 - logger_File -INFO - user is on retail website
+2023-03-03 13:28:48,784 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:28:49,041 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:28:49,368 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:28:49,475 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:28:49,745 - logger_File -INFO - user is logged in into account
+2023-03-03 13:28:49,854 - logger_File -INFO - user change the catagory to electronics
+2023-03-03 13:28:50,053 - logger_File -INFO - user searched for item
+2023-03-03 13:28:50,147 - logger_File -INFO - user click on serach icon
+2023-03-03 13:32:29,660 - logger_File -INFO - user is on retail website
+2023-03-03 13:32:29,666 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:32:29,866 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:32:30,204 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:32:30,304 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:32:30,624 - logger_File -INFO - user is logged in into account
+2023-03-03 13:32:30,757 - logger_File -INFO - user change the catagory to electronics
+2023-03-03 13:32:30,950 - logger_File -INFO - user searched for item
+2023-03-03 13:32:31,054 - logger_File -INFO - user click on serach icon
+2023-03-03 13:32:31,238 - logger_File -INFO - userserach for an electornics
+2023-03-03 13:32:31,419 - logger_File -INFO - user select qty to 2
+2023-03-03 13:32:31,567 - logger_File -INFO - user clicked on cart
+2023-03-03 13:32:31,669 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 13:32:31,782 - logger_File -INFO - user clicked on cart option
+2023-03-03 13:32:31,919 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 13:33:48,629 - logger_File -INFO - user is on retail website
+2023-03-03 13:33:48,641 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:33:48,957 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:33:49,296 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:33:49,407 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:33:49,664 - logger_File -INFO - user is logged in into account
+2023-03-03 13:33:49,798 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 13:33:50,054 - logger_File -INFO - user searched for item
+2023-03-03 13:33:50,162 - logger_File -INFO - user click on serach icon
+2023-03-03 13:33:50,362 - logger_File -INFO - user click on item
+2023-03-03 13:33:50,651 - logger_File -INFO - user select qty to 2
+2023-03-03 13:33:50,821 - logger_File -INFO - user clicked on cart
+2023-03-03 13:33:50,861 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 13:33:51,009 - logger_File -INFO - user clicked on cart option
+2023-03-03 13:33:51,165 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 13:33:51,332 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 13:33:52,797 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 13:33:52,938 - logger_File -INFO - user clicked on add address button
+2023-03-03 13:35:02,784 - logger_File -INFO - user is on retail website
+2023-03-03 13:35:02,792 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:35:02,988 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:35:03,302 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:35:03,412 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:35:03,713 - logger_File -INFO - user is logged in into account
+2023-03-03 13:35:03,834 - logger_File -INFO - user change the catagory to home smart
+2023-03-03 13:35:04,031 - logger_File -INFO - user searched for item
+2023-03-03 13:35:04,122 - logger_File -INFO - user click on serach icon
+2023-03-03 13:35:04,356 - logger_File -INFO - user click on item
+2023-03-03 13:35:04,556 - logger_File -INFO - user select qty to 2
+2023-03-03 13:35:04,700 - logger_File -INFO - user clicked on cart
+2023-03-03 13:35:04,799 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 13:35:04,915 - logger_File -INFO - user clicked on cart option
+2023-03-03 13:35:05,053 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 13:35:05,197 - logger_File -INFO - user clicked on padd new address button
+2023-03-03 13:35:06,486 - logger_File -INFO - user filled the new address from information were provided in the data table
+2023-03-03 13:35:06,594 - logger_File -INFO - user clicked on add address button
+2023-03-03 13:35:06,710 - logger_File -INFO - user clicked on add a cridet card or Debit card button
+2023-03-03 13:35:07,213 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-03 13:35:07,307 - logger_File -INFO - user click on add your card option
+2023-03-03 13:35:07,958 - logger_File -INFO - user click on place your order button
+2023-03-03 13:35:08,165 - logger_File -INFO - messege is desplayes
+2023-03-03 13:35:47,992 - logger_File -INFO - user is on retail website
+2023-03-03 13:35:47,999 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-03 13:35:48,268 - logger_File -INFO - user clicked on the sign in button
+2023-03-03 13:35:48,581 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-03 13:35:48,690 - logger_File -INFO - user clicked on logg in button
+2023-03-03 13:35:48,968 - logger_File -INFO - user is logged in into account
+2023-03-03 13:35:49,092 - logger_File -INFO - user change the catagory to electronics
+2023-03-03 13:35:49,286 - logger_File -INFO - user searched for item
+2023-03-03 13:35:49,386 - logger_File -INFO - user click on serach icon
+2023-03-03 13:35:49,571 - logger_File -INFO - userserach for an electornics
+2023-03-03 13:35:49,763 - logger_File -INFO - user select qty to 2
+2023-03-03 13:35:49,902 - logger_File -INFO - user clicked on cart
+2023-03-03 13:35:49,993 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-03 13:35:50,100 - logger_File -INFO - user clicked on cart option
+2023-03-03 13:35:50,238 - logger_File -INFO - user clicked on proceed to checkout  option
+2023-03-03 13:35:50,380 - logger_File -INFO - user click on place your order button
+2023-03-03 13:35:50,596 - logger_File -INFO - messege is desplayes
+2023-03-09 08:53:27,359 - logger_File -INFO - user is on retail website
+2023-03-09 08:53:27,367 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 08:53:27,575 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 08:53:27,912 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 08:53:28,025 - logger_File -INFO - user clicked on logg in button
+2023-03-09 08:53:28,478 - logger_File -INFO - user clicked on account option
+2023-03-09 08:55:44,240 - logger_File -INFO - user is on retail website
+2023-03-09 08:55:44,248 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 08:55:44,486 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 08:55:44,821 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 08:55:44,922 - logger_File -INFO - user clicked on logg in button
+2023-03-09 08:55:45,404 - logger_File -INFO - user clicked on account option
+2023-03-09 08:55:45,801 - logger_File -INFO - user enter the below information
+2023-03-09 08:55:45,905 - logger_File -INFO - user clicked in change password button
+2023-03-09 08:55:45,907 - logger_File -INFO - messege 'password changed successfully' displayed
+2023-03-09 09:12:14,879 - logger_File -INFO - user is on retail website
+2023-03-09 09:12:14,886 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:12:15,088 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:12:15,406 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:12:15,517 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:12:16,015 - logger_File -INFO - user clicked on account option
+2023-03-09 09:12:16,419 - logger_File -INFO - user enter the below information
+2023-03-09 09:12:16,516 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:15:11,785 - logger_File -INFO - user is on retail website
+2023-03-09 09:15:11,794 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:15:11,985 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:15:12,329 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:15:12,436 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:15:13,345 - logger_File -INFO - user clicked on account option
+2023-03-09 09:15:13,743 - logger_File -INFO - user enter the below information
+2023-03-09 09:15:13,837 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:19:17,984 - logger_File -INFO - user is on retail website
+2023-03-09 09:19:17,993 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:19:18,313 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:19:18,613 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:19:18,722 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:19:19,129 - logger_File -INFO - user clicked on account option
+2023-03-09 09:19:19,529 - logger_File -INFO - user enter the below information
+2023-03-09 09:19:19,628 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:30:08,202 - logger_File -INFO - user is on retail website
+2023-03-09 09:30:08,210 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:30:08,433 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:30:08,752 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:30:08,857 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:30:09,383 - logger_File -INFO - user clicked on account option
+2023-03-09 09:30:09,770 - logger_File -INFO - user enter the below information
+2023-03-09 09:30:09,867 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:32:27,153 - logger_File -INFO - user is on retail website
+2023-03-09 09:32:27,163 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:32:27,369 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:32:27,703 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:32:27,822 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:32:28,327 - logger_File -INFO - user clicked on account option
+2023-03-09 09:32:28,778 - logger_File -INFO - user enter the below information
+2023-03-09 09:32:28,877 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:35:34,602 - logger_File -INFO - user is on retail website
+2023-03-09 09:35:34,615 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:35:34,916 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:35:35,250 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:35:35,362 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:35:35,838 - logger_File -INFO - user clicked on account option
+2023-03-09 09:35:36,274 - logger_File -INFO - user enter the below information
+2023-03-09 09:35:36,382 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:38:19,910 - logger_File -INFO - user is on retail website
+2023-03-09 09:38:19,916 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:38:20,151 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:38:20,472 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:38:20,574 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:38:21,060 - logger_File -INFO - user clicked on account option
+2023-03-09 09:38:21,463 - logger_File -INFO - user enter the below information
+2023-03-09 09:38:21,566 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:41:52,659 - logger_File -INFO - user is on retail website
+2023-03-09 09:41:52,665 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:41:52,851 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:41:53,185 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:41:53,294 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:41:53,770 - logger_File -INFO - user clicked on account option
+2023-03-09 09:41:54,171 - logger_File -INFO - user enter the below information
+2023-03-09 09:41:54,268 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:48:07,815 - logger_File -INFO - user is on retail website
+2023-03-09 09:48:07,820 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:48:08,060 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:48:08,385 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:48:08,499 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:48:08,983 - logger_File -INFO - user clicked on account option
+2023-03-09 09:48:09,387 - logger_File -INFO - user enter the below information
+2023-03-09 09:48:09,486 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:52:04,380 - logger_File -INFO - user is on retail website
+2023-03-09 09:52:04,389 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:52:04,621 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:52:04,945 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:52:05,050 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:52:05,496 - logger_File -INFO - user clicked on account option
+2023-03-09 09:52:05,902 - logger_File -INFO - user enter the below information
+2023-03-09 09:52:06,007 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:55:37,914 - logger_File -INFO - user is on retail website
+2023-03-09 09:55:37,923 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 09:55:38,249 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 09:55:38,571 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 09:55:38,684 - logger_File -INFO - user clicked on logg in button
+2023-03-09 09:55:39,119 - logger_File -INFO - user clicked on account option
+2023-03-09 09:55:39,552 - logger_File -INFO - user enter the below information
+2023-03-09 09:55:39,680 - logger_File -INFO - user clicked in change password button
+2023-03-09 09:55:39,681 - logger_File -INFO - messege password changed successfully displayed
+2023-03-09 10:24:36,934 - logger_File -INFO - user is on retail website
+2023-03-09 10:24:36,942 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 10:24:37,107 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 10:24:37,486 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 10:24:37,599 - logger_File -INFO - user clicked on logg in button
+2023-03-09 10:24:38,138 - logger_File -INFO - user clicked on account option
+2023-03-09 10:24:38,257 - logger_File -INFO - user clicked on add a payment  link
+2023-03-09 10:24:38,813 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-09 10:24:38,930 - logger_File -INFO - user click on add your card option
+2023-03-09 10:24:38,930 - logger_File -INFO - payment method updated successfully
+2023-03-09 10:26:11,459 - logger_File -INFO - user is on retail website
+2023-03-09 10:26:11,467 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 10:26:11,726 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 10:26:12,041 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 10:26:12,144 - logger_File -INFO - user clicked on logg in button
+2023-03-09 10:26:12,620 - logger_File -INFO - user clicked on account option
+2023-03-09 10:26:12,744 - logger_File -INFO - user clicked on add a payment  link
+2023-03-09 10:26:13,382 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-09 10:26:13,486 - logger_File -INFO - user click on add your card option
+2023-03-09 10:26:13,487 - logger_File -INFO - payment method updated successfully
+2023-03-09 10:31:05,445 - logger_File -INFO - user is on retail website
+2023-03-09 10:31:05,451 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 10:31:05,771 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 10:31:06,147 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 10:31:06,263 - logger_File -INFO - user clicked on logg in button
+2023-03-09 10:31:06,750 - logger_File -INFO - user clicked on account option
+2023-03-09 10:31:06,907 - logger_File -INFO - user clicked on add a payment  link
+2023-03-09 10:31:07,581 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-09 10:31:07,700 - logger_File -INFO - user click on add your card option
+2023-03-09 10:31:08,427 - logger_File -INFO - payment method updated successfully
+2023-03-09 10:36:30,348 - logger_File -INFO - user is on retail website
+2023-03-09 10:36:30,355 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 10:36:30,570 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 10:36:30,915 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 10:36:31,029 - logger_File -INFO - user clicked on logg in button
+2023-03-09 10:36:31,566 - logger_File -INFO - user clicked on account option
+2023-03-09 10:36:31,681 - logger_File -INFO - user clicked on add a payment  link
+2023-03-09 10:36:32,259 - logger_File -INFO - user filled the cridet card  informathon
+2023-03-09 10:36:32,372 - logger_File -INFO - user click on add your card option
+2023-03-09 11:40:09,724 - logger_File -INFO - user is on retail website
+2023-03-09 11:40:09,729 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 11:40:09,961 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 11:40:10,263 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 11:40:10,369 - logger_File -INFO - user clicked on logg in button
+2023-03-09 11:40:11,079 - logger_File -INFO - user clicked on account option
+2023-03-09 11:56:27,019 - logger_File -INFO - user is on retail website
+2023-03-09 11:56:27,025 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 11:56:27,194 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 11:56:27,487 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 11:56:27,598 - logger_File -INFO - user clicked on logg in button
+2023-03-09 11:56:28,286 - logger_File -INFO - user clicked on account option
+2023-03-09 12:01:01,268 - logger_File -INFO - user is on retail website
+2023-03-09 12:01:01,278 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:01:01,491 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:01:01,809 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:01:01,916 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:01:02,410 - logger_File -INFO - user clicked on account option
+2023-03-09 12:05:32,063 - logger_File -INFO - user is on retail website
+2023-03-09 12:05:32,070 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:05:32,379 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:05:32,708 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:05:32,823 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:05:33,275 - logger_File -INFO - user clicked on account option
+2023-03-09 12:05:33,406 - logger_File -INFO - user clicked on card
+2023-03-09 12:05:33,539 - logger_File -INFO - user clicked on edit option of credit card
+2023-03-09 12:05:33,890 - logger_File -INFO - user clicked on update your card button
+2023-03-09 12:26:29,118 - logger_File -INFO - user is on retail website
+2023-03-09 12:26:29,130 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:26:29,421 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:26:29,728 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:26:29,833 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:26:30,356 - logger_File -INFO - user clicked on account option
+2023-03-09 12:26:30,486 - logger_File -INFO - user clicked on card
+2023-03-09 12:26:30,620 - logger_File -INFO - user clicked on edit option of credit card
+2023-03-09 12:29:48,903 - logger_File -INFO - user is on retail website
+2023-03-09 12:29:48,907 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:29:49,080 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:29:49,392 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:29:49,496 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:29:49,974 - logger_File -INFO - user clicked on account option
+2023-03-09 12:29:50,702 - logger_File -INFO - user clicked on card
+2023-03-09 12:29:50,813 - logger_File -INFO - user clicked on edit option of credit card
+2023-03-09 12:31:55,251 - logger_File -INFO - user is on retail website
+2023-03-09 12:31:55,273 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:31:55,572 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:31:55,876 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:31:55,986 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:31:56,428 - logger_File -INFO - user clicked on account option
+2023-03-09 12:31:56,566 - logger_File -INFO - user clicked on card
+2023-03-09 12:31:56,700 - logger_File -INFO - user clicked on edit option of credit card
+2023-03-09 12:32:03,467 - logger_File -INFO - user enetrd the new information
+2023-03-09 12:32:03,555 - logger_File -INFO - user clicked on update your card button
+2023-03-09 12:32:08,633 - logger_File -INFO - the messege dispalyed
+2023-03-09 12:51:28,143 - logger_File -INFO - user is on retail website
+2023-03-09 12:51:28,152 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:51:28,317 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:51:28,613 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:51:28,723 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:51:29,249 - logger_File -INFO - user clicked on account option
+2023-03-09 12:53:41,964 - logger_File -INFO - user is on retail website
+2023-03-09 12:53:41,971 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:53:42,172 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:53:42,504 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:53:42,609 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:53:43,219 - logger_File -INFO - user clicked on account option
+2023-03-09 12:56:53,708 - logger_File -INFO - user is on retail website
+2023-03-09 12:56:53,715 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 12:56:53,971 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 12:56:54,281 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 12:56:54,382 - logger_File -INFO - user clicked on logg in button
+2023-03-09 12:56:54,866 - logger_File -INFO - user clicked on account option
+2023-03-09 13:01:38,321 - logger_File -INFO - user is on retail website
+2023-03-09 13:01:38,327 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 13:01:38,569 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 13:01:38,892 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 13:01:38,994 - logger_File -INFO - user clicked on logg in button
+2023-03-09 13:01:39,466 - logger_File -INFO - user clicked on account option
+2023-03-09 13:01:39,607 - logger_File -INFO - user clicke on card or choosed card for deletion
+2023-03-09 13:01:39,734 - logger_File -INFO - user click on remover button
+2023-03-09 13:01:39,735 - logger_File -INFO - the card has been deleted
+2023-03-09 14:26:01,587 - logger_File -INFO - user is on retail website
+2023-03-09 14:26:01,593 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 14:26:01,786 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 14:26:02,124 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 14:26:02,227 - logger_File -INFO - user clicked on logg in button
+2023-03-09 14:26:02,734 - logger_File -INFO - user clicked on order section
+2023-03-09 14:33:56,725 - logger_File -INFO - user is on retail website
+2023-03-09 14:33:56,736 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 14:33:56,967 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 14:33:57,289 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 14:33:57,397 - logger_File -INFO - user clicked on logg in button
+2023-03-09 14:33:58,185 - logger_File -INFO - user clicked on order section
+2023-03-09 14:33:58,291 - logger_File -INFO - user clicked on first item in the list
+2023-03-09 14:33:58,415 - logger_File -INFO - user clickes on cancel order
+2023-03-09 14:35:51,902 - logger_File -INFO - user is on retail website
+2023-03-09 14:35:51,909 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 14:35:52,100 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 14:35:52,432 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 14:35:52,545 - logger_File -INFO - user clicked on logg in button
+2023-03-09 14:35:53,344 - logger_File -INFO - user clicked on order section
+2023-03-09 14:35:53,445 - logger_File -INFO - user clicked on first item in the list
+2023-03-09 14:35:53,567 - logger_File -INFO - user clickes on cancel order
+2023-03-09 14:37:47,421 - logger_File -INFO - user is on retail website
+2023-03-09 14:37:47,430 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 14:37:47,639 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 14:37:47,969 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 14:37:48,079 - logger_File -INFO - user clicked on logg in button
+2023-03-09 14:37:48,897 - logger_File -INFO - user clicked on order section
+2023-03-09 14:37:49,000 - logger_File -INFO - user clicked on first item in the list
+2023-03-09 14:37:49,132 - logger_File -INFO - user clickes on cancel order
+2023-03-09 14:53:50,821 - logger_File -INFO - user is on retail website
+2023-03-09 14:53:50,828 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 14:53:51,039 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 14:53:51,360 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 14:53:51,467 - logger_File -INFO - user clicked on logg in button
+2023-03-09 14:53:52,300 - logger_File -INFO - user clicked on order section
+2023-03-09 14:53:52,401 - logger_File -INFO - user clicked on first item in the list
+2023-03-09 14:53:52,526 - logger_File -INFO - user clickes on cancel order
+2023-03-09 14:53:52,648 - logger_File -INFO - user clicked on select menue and chose the item damageges option
+2023-03-09 14:53:52,750 - logger_File -INFO - user clicked on cancel order button
+2023-03-09 14:53:52,751 - logger_File -INFO - messege deslapyed
+2023-03-09 15:02:04,559 - logger_File -INFO - user is on retail website
+2023-03-09 15:02:04,567 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 15:02:04,776 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 15:02:05,120 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 15:02:05,234 - logger_File -INFO - user clicked on logg in button
+2023-03-09 15:02:06,058 - logger_File -INFO - user clicked on order section
+2023-03-09 15:02:06,162 - logger_File -INFO - user clicked on first item in the list
+2023-03-09 15:17:50,047 - logger_File -INFO - user is on retail website
+2023-03-09 15:17:50,057 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 15:17:50,278 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 15:17:50,597 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 15:17:50,699 - logger_File -INFO - user clicked on logg in button
+2023-03-09 15:17:51,552 - logger_File -INFO - user clicked on order section
+2023-03-09 15:17:51,666 - logger_File -INFO - user clickes on item to return
+2023-03-09 15:17:51,668 - logger_File -INFO - user clickes on return button
+2023-03-09 15:17:51,669 - logger_File -INFO - user clickes select reson for return
+2023-03-09 15:17:51,670 - logger_File -INFO - user select the drop of location
+2023-03-09 15:17:51,671 - logger_File -INFO - user clickes on return order button
+2023-03-09 15:17:51,673 - logger_File -INFO - calcelation messege displayed
+2023-03-09 19:12:12,913 - logger_File -INFO - user is on retail website
+2023-03-09 19:12:12,932 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-09 19:12:13,258 - logger_File -INFO - user clicked on the sign in button
+2023-03-09 19:12:13,753 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-09 19:12:13,902 - logger_File -INFO - user clicked on logg in button
+2023-03-09 19:12:14,164 - logger_File -INFO - user is logged in into account
+2023-03-09 19:12:14,344 - logger_File -INFO - user change the catagory to home smart
+2023-03-09 19:12:14,648 - logger_File -INFO - user searched for item
+2023-03-09 19:12:14,826 - logger_File -INFO - user click on serach icon
+2023-03-09 19:12:15,079 - logger_File -INFO - user click on item
+2023-03-09 19:12:15,584 - logger_File -INFO - user select qty to 2
+2023-03-09 19:12:15,763 - logger_File -INFO - user clicked on cart
+2023-03-09 19:12:15,887 - logger_File -INFO - the quantity changed to 2 in the card
+2023-03-15 09:02:28,288 - logger_File -INFO - user is on retail website
+2023-03-15 09:02:28,294 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:02:28,499 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:02:28,910 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:02:29,051 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:02:30,324 - logger_File -INFO - user clicked on order section
+2023-03-15 09:02:30,506 - logger_File -INFO - user clicked on first item in the list
+2023-03-15 09:04:18,933 - logger_File -INFO - user is on retail website
+2023-03-15 09:04:18,941 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:04:19,217 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:04:19,608 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:04:19,744 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:04:20,604 - logger_File -INFO - user clicked on order section
+2023-03-15 09:04:20,745 - logger_File -INFO - user clicked on order for review
+2023-03-15 09:04:20,902 - logger_File -INFO - user clicked on review button
+2023-03-15 09:04:21,445 - logger_File -INFO - user add outline and review text
+2023-03-15 09:06:38,383 - logger_File -INFO - user is on retail website
+2023-03-15 09:06:38,394 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:06:38,797 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:06:39,167 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:06:39,299 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:06:40,165 - logger_File -INFO - user clicked on order section
+2023-03-15 09:06:40,300 - logger_File -INFO - user clicked on order for review
+2023-03-15 09:06:40,487 - logger_File -INFO - user clicked on review button
+2023-03-15 09:06:41,155 - logger_File -INFO - user add outline and review text
+2023-03-15 09:06:41,288 - logger_File -INFO - user clicked on add your review button
+2023-03-15 09:06:41,995 - logger_File -INFO - review messege is displayed
+2023-03-15 09:08:23,507 - logger_File -INFO - user is on retail website
+2023-03-15 09:08:23,520 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:08:23,802 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:08:24,236 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:08:24,406 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:08:25,396 - logger_File -INFO - user clicked on order section
+2023-03-15 09:08:25,568 - logger_File -INFO - user clickes on item to return
+2023-03-15 09:08:25,763 - logger_File -INFO - user clickes on return button
+2023-03-15 09:08:26,570 - logger_File -INFO - user clickes select reson for return
+2023-03-15 09:08:26,733 - logger_File -INFO - user select the drop of location
+2023-03-15 09:08:26,898 - logger_File -INFO - user clickes on return order button
+2023-03-15 09:11:28,358 - logger_File -INFO - user is on retail website
+2023-03-15 09:11:28,366 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:11:28,768 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:11:29,142 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:11:29,273 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:11:30,063 - logger_File -INFO - user clicked on order section
+2023-03-15 09:12:23,142 - logger_File -INFO - user is on retail website
+2023-03-15 09:12:23,153 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:12:23,508 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:12:23,878 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:12:24,009 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:12:24,906 - logger_File -INFO - user clicked on order section
+2023-03-15 09:12:25,043 - logger_File -INFO - user clicked on first item in the list
+2023-03-15 09:14:35,565 - logger_File -INFO - user is on retail website
+2023-03-15 09:14:35,576 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:14:35,954 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:14:36,319 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:14:36,443 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:14:37,301 - logger_File -INFO - user clicked on order section
+2023-03-15 09:14:37,447 - logger_File -INFO - user clicked on first item in the list
+2023-03-15 09:21:21,949 - logger_File -INFO - user is on retail website
+2023-03-15 09:21:21,961 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:21:22,328 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:21:22,709 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:21:22,841 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:21:23,641 - logger_File -INFO - user clicked on order section
+2023-03-15 09:21:23,784 - logger_File -INFO - user clicked on first item in the list
+2023-03-15 09:27:01,684 - logger_File -INFO - user is on retail website
+2023-03-15 09:27:01,692 - logger_File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-03-15 09:27:01,933 - logger_File -INFO - user clicked on the sign in button
+2023-03-15 09:27:02,357 - logger_File -INFO - user enter email valueshakoko@koko.comuser enter passward valueSHAkoko12@
+2023-03-15 09:27:02,506 - logger_File -INFO - user clicked on logg in button
+2023-03-15 09:27:03,373 - logger_File -INFO - user clicked on order section
+2023-03-15 09:27:03,519 - logger_File -INFO - user clicked on first item in the list
+2023-03-15 09:27:03,692 - logger_File -INFO - user clickes on cancel order
+2023-03-15 09:27:03,845 - logger_File -INFO - user clicked on select menue and chose the item damageges option
+2023-03-15 09:27:03,995 - logger_File -INFO - user clicked on cancel order button

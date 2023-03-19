@@ -1,0 +1,5 @@
+tek\capstone\base\BaseUITest.class
+tek\capstone\steps\RetailHomeSteps.class
+tek\capstone\ElePages\POMFactory.class
+tek\capstone\ElePages\RetailHomePage.class
+tek\capstone\runner\TestRunner.class
