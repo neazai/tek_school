@@ -1,4 +1,5 @@
-Feature: 
+@CICDTest
+Feature: order section testing
 
   Background: 
     Given User is on retail website
@@ -8,7 +9,7 @@ Feature:
     And User should be signed in
     When User click on Orders section
 
- @smoke
+
   Scenario: Verify User can cancel the order
     And User click on first order in list
     And User click on Cancel The Order button

@@ -71,13 +71,15 @@ public class OrderPage extends BaseSetup{
 	
 	
 
-	@FindBy(xpath=("(//p[text()='Show Details'])[2]"))
+	@FindBy(xpath=("(//p[text()='Show Details'])[1]"))
 	public WebElement viewOrderToCancel;
+	
 	
 	
 	
 	@FindBy(xpath=("//select[@id='reasonInput']"))
 	public WebElement selectDropDownForCancelingReason;
+	
 	
 	@FindBy(xpath=("//button[@id='cancelBtn']"))
 	public WebElement cancelOrderButton;
@@ -92,11 +94,11 @@ public class OrderPage extends BaseSetup{
 	public WebElement cancelOrder;
 	
 	
-	
-	@FindBy(xpath=("(//p[text()='Show Details'])[4]"))
+	//**
+	@FindBy(xpath=("(//p[text()='Show Details'])[3]"))
 	public WebElement viewOrderToReturn;
 	
-	
+	//**
 	@FindBy(xpath=("(//button[@id='returnBtn'])[1]"))
 	public WebElement ReturnItems;
 	
@@ -116,11 +118,11 @@ public class OrderPage extends BaseSetup{
 	@FindBy(xpath=("//p[text()='Return was successfull']"))
 	public WebElement returnMessegeDisplayed;
 	
-	
-	@FindBy(xpath=("(//p[text()='Show Details'])[1]"))
+	//**
+	@FindBy(xpath=("(//p[text()='Show Details'])[3]"))
 	public WebElement viewOrderToReview;
 	
-	
+	//**
 	@FindBy(xpath=("(//button[@id='reviewBtn'])[1]"))
 	public WebElement reviewButton;
 	

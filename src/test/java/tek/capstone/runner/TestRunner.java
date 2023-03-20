@@ -7,7 +7,7 @@ import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags = "@CICDTest",
+		tags = "@Jinken",
 		features = ("classpath:features"),
 		glue = "tek.capstone",
 		dryRun = false,

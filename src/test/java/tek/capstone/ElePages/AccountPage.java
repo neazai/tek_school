@@ -141,7 +141,7 @@ public class AccountPage extends BaseSetup{
 	
 	
 	
-	@FindBy(xpath =("//div[@data-id='4456']"))
+	@FindBy(xpath =("//div[@data-id='5132']"))
 	public WebElement chooseCardForDeletion;
 	
 	

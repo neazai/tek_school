@@ -1,3 +1,4 @@
+@Jinken
 @CICDTest
 Feature: Tek Rtail application sign in feature
 
@@ -5,10 +6,13 @@ Feature: Tek Rtail application sign in feature
     Given User is on retail website
     When User click on sign in option
 
+  
   Scenario: Verify user can sighn in into Retail application
-    And User enter email 'phantom.test@gmail.com' and password 'Tek@12345'
+    And User enter email 'shakoko@koko.com' and password 'SHAkoko12@'
     And User click on login button
     Then User should be signed in
+    
+    
 
   ## Scenario  outline  Example which test the case with defernt scenario
   Scenario Outline: Verify user can sighn in into Retail application
@@ -17,9 +21,10 @@ Feature: Tek Rtail application sign in feature
     Then User should be signed in
 
     Examples: 
-      | email                    | password   |
-      | transormaer@tekschool.us | Tek@12345  |
-      | phantom.test@gmail.com   | Test@12345 |
+      | email            | password      |
+      | laila@gmail.com  | 12345@Meyouwe |
+      | shakoko@koko.com | SHAkoko12@    |
+
 
   Scenario: Verify user can create an account into retail website
     And User click on create new account button

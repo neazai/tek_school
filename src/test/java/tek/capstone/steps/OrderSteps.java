@@ -81,13 +81,7 @@ public void aMessageShouldBeDisplayedOrderPlacedThanks() {
     }
      
      
-    @And("User click on Cancel The Order button")
-     public void userClickOnCancelTheOrderButton() {
-    	 click(factory.orderPage().cancelOrderButton);
-    	 logger.info("user clickes on cancel order");
-    }
-    
-    
+   
     
     
     @And("User select the cancelation Reason 'Bought wrong item’")
@@ -96,6 +90,12 @@ public void aMessageShouldBeDisplayedOrderPlacedThanks() {
     logger.info("user clicked on select menue and chose the item damageges option");
     }
     
+    
+     @And("User click on Cancel The Order button")
+     public void userClickOnCancelTheOrderButton() {
+    	 click(factory.orderPage().cancelOrder);
+    	 logger.info("user clickes on cancel order");
+    }
     
     
     @And("User click on Cancel Order button")

@@ -1,16 +1,22 @@
+@Jinken
+@CICDTest
 Feature: This feature is use for testing UI of Retail page
 
   Background: 
     Given User is on retail website
 
+
   Scenario: Verify user can search a product
     When User search for "pokemon" product
     Then The product should be displayed
+
 
   Scenario: Verify shop by department sidebar
     When User click on All section
     Then Below options are present in shop by department sidebar
       | Electronics | Computers | Smart Home | Sports | Automative |
+
+
 
   Scenario Outline: Verify Department sidebar options
     When User click on All section
@@ -25,6 +31,8 @@ Feature: This feature is use for testing UI of Retail page
       | Smart Home  | Smart Home Lightning          | Plugs and Outlets        |
       | Sports      | Athletic Clothing             | Exercise & Fitness       |
       | Automative  | Atomative Parts & Accessories | Motorcycle & Powersports |
+      
+      
 
   Scenario: Verify User can add an item to cart
     When User click on sign in option
